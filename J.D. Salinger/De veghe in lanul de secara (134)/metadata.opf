@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">134</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8f283a5-f008-4ee7-98c9-696d0c843bd6</dc:identifier>
+        <dc:title>De veghe în lanul de secară</dc:title>
+        <dc:creator opf:file-as="Salinger, J.D." opf:role="aut">J.D. Salinger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-12T16:09:55+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;"The Catcher in the Rye", 1951&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cosimo, decembrie 2011&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- versiune definitivă -&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cosimo</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">de1435ec-f063-4b0a-8d2b-876c387b485b</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cosimo</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J.D. Salinger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-08-02T07:16:36.613401+00:00"/>
+        <meta name="calibre:title_sort" content="De veghe în lanul de secară"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

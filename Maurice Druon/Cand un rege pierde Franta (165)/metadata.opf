@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">165</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abbc4b06-ffb7-4a17-880e-243fc6e5d5aa</dc:identifier>
+        <dc:title>Când un rege pierde Franţa</dc:title>
+        <dc:creator opf:file-as="Druon, Maurice" opf:role="aut">Maurice Druon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1977-02-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Franţa este aproape distrusă şi îngenuncheată în Războiul de o Sută de Ani. Este posibil să apară liderul providenţial ce va putea pune capăt acestui îndelungat conflict?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bronto Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9735004216</dc:identifier>
+        <dc:language>ron</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Maurice Druon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Regii Blestemaţi"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:rating" content="4"/>
+        <meta name="calibre:timestamp" content="2021-08-02T07:23:16+00:00"/>
+        <meta name="calibre:title_sort" content="Când un rege pierde Franţa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">198</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a64f1a1-91f5-462e-be82-66946e5ec12f</dc:identifier>
+        <dc:title>Mizerabilii 3</dc:title>
+        <dc:creator opf:file-as="Hugo, Victor" opf:role="aut">Victor Hugo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;"Atata vreme cat va exista, din pricina legilor si a moravurilor, un blestem social, care creeaza in chip artificial, in plina civilizatie, adevarate iaduri, agravand cu o fatalitate omeneasca destinul, care e de esenta divina; atata vreme cat cele trei probleme ale secolului: injosirea omului prin exploatare, decaderea femeii prin foame, atrofierea copilului prin prin puterea intunericului nu vor fi rezolvate; atata vreme cat in anumite paturi constrangerile sociale vor fi cu putinta; cu alte cuvinte, si intr-un sens si mai lasrg, atata vreme cat pe pamant vor dainui ignoranta si mizeria carti de felul celei de fata nu vor fi zadarnice." Victor Hugo &lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">9731040773</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789731040776</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Victor Hugo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Mizerabilii"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2022-01-11T12:06:25+00:00"/>
+        <meta name="calibre:title_sort" content="Mizerabilii 3"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

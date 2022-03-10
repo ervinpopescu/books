@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b624b601-5ebc-45cf-adb7-f5f75c29a598</dc:identifier>
+        <dc:title>Mizerabilii 2</dc:title>
+        <dc:creator opf:file-as="Hugo, Victor" opf:role="aut">Victor Hugo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;“Pentru Adele Foucher Iubita mea, Cand doua suflete, care se doresc unul pe celalalt, oricat de departe se aflau unul de celalalt se gasesc in sfarsit… o unire puternica si pura la fel ca sufletul insasi… incepe pe pamant si continua pentru totdeauna in ceruri. Aceasta unire este dragostea, dragostea adevarata… o religie, a carei credinta este cel iubit, a carei viata se naste din devotiune si pasiune, si pentru care cele mai mari sacrificii sunt cele mai dulcii delicii.Asta este dragostea ce tu mi-o inspiri… Sufletul tau e capabil sa iubeasca cu puritatea si pasiunea ingerilor; dar poate el trebuie sa iubeasca numai un alt inger, gand care ma cutremura cu deznadejde. Al tau pentru totdeauna” &lt;/p&gt;</dc:description>
+        <dc:publisher>Cartex</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">9738202604</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789738202603</dc:identifier>
+        <dc:language>ron</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Victor Hugo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Mizerabilii"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2022-01-11T12:05:06+00:00"/>
+        <meta name="calibre:title_sort" content="Mizerabilii 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

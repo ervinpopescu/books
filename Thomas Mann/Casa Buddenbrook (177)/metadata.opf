@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">177</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7693db0d-02de-4990-b56c-688d7732bd28</dc:identifier>
+        <dc:title>Casa Buddenbrook</dc:title>
+        <dc:creator opf:file-as="Mann, Thomas" opf:role="aut">Thomas Mann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1901-04-18T22:00:00+00:00</dc:date>
+        <dc:description>&lt;hr&gt;
+Un portret al burgheziei germane, realizat pe parcursul a câtorva decade din secolul al XIX-lea.</dc:description>
+        <dc:publisher>Bronto Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789731034010</dc:identifier>
+        <dc:language>ron</dc:language>
+        <dc:subject>Proză_UN</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Mann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-08-02T07:23:16+00:00"/>
+        <meta name="calibre:title_sort" content="Casa Buddenbrook"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

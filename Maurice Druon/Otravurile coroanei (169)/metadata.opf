@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0594e8d-92bd-4549-b424-1539fcecfd72</dc:identifier>
+        <dc:title>Otrăvurile coroanei</dc:title>
+        <dc:creator opf:file-as="Druon, Maurice" opf:role="aut">Maurice Druon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1956-02-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;hr&gt;&lt;p&gt;La numai şase luni după moartea Regelui de Fier, majoritatea reformelor lui par deja sortite eşecului, oamenii lui de încredere sunt închişi şi pare că nimeni nu-şi mai aduce aminte de domnia lui dreaptă. Viaţa oamenilor de rând este tot mai grea dar regele Ludovic al X-lea este preocupat să-şi poleiască imaginea prin căsătoria cu frumoasa Clemente de Ungaria şi să organizeze o încoronare fastuoasă pe cheltuiala oraşului Reims. Curtea se mută la Vincennes şi, sub aparenţa unei oarecare normalităţi, conflictele continua să roadă unitatea regatului. Iar blestemul templierilor loveşte din nou...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bronto Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9735004178</dc:identifier>
+        <dc:language>ron</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Maurice Druon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Regii Blestemaţi"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-02T07:23:16+00:00"/>
+        <meta name="calibre:title_sort" content="Otrăvurile coroanei"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

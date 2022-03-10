@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95579e2d-6a8c-4564-be50-b8add4014ca7</dc:identifier>
+        <dc:title>Cel mai bogat om din pestera</dc:title>
+        <dc:creator opf:file-as="Batchelor, Doug" opf:role="aut">Doug Batchelor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Editura Viata si Sanatate</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Doug Batchelor</dc:subject>
+        <dc:subject>caveman</dc:subject>
+        <dc:subject>Amazing Facts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Doug Batchelor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-12T15:24:06.278820+00:00"/>
+        <meta name="calibre:title_sort" content="Cel mai bogat om din pestera"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

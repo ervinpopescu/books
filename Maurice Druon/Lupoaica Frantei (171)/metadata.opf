@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1e4a633-9e42-4e36-bdc8-319920c02f2d</dc:identifier>
+        <dc:title>Lupoaica Franţei</dc:title>
+        <dc:creator opf:file-as="Druon, Maurice" opf:role="aut">Maurice Druon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1959-02-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;hr&gt;
+Odată cu venirea la tron a lui Filip al VI-lea, pacea a coborât în sfârşit asupra regatului. Vorbele ameninţătoare ale marelui maestru al Templierilor par doar o amintire urâta, dar, ca şi cum ar fi fost vorba numai de "liniştea dinaintea furtunii", blestemul s-a înverşunat împotriva regelui: fiul său moare iar regatul este lovit, pe rând, de foamete, revolte şi lepră.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;În acest timp, în Anglia, Isabelle de France, umilită de viciile soţului ei, regele Eduard - incapabil, dar viclean -, este batjocorită şi tremură pentru viaţa ei. Oare blestemul Templierilor va lovi acum dincolo de mare?&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bronto Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9735004194</dc:identifier>
+        <dc:language>ron</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Maurice Druon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Regii Blestemaţi"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2021-08-02T07:23:16+00:00"/>
+        <meta name="calibre:title_sort" content="Lupoaica Franţei"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

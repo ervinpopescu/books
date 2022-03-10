@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">175</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">feb7a806-7da9-417b-8317-cc22fa485484</dc:identifier>
+        <dc:title>Crinul şi Leul</dc:title>
+        <dc:creator opf:file-as="Druon, Maurice" opf:role="aut">Maurice Druon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1960-02-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;hr&gt;În februarie 1328, se stinge, după o domnie la fel de scurtă şi nesemnificativă ca şi cea a fraţilor săi mai mari, Carol al IV-lea şi, odată cu el, dinastia Capetienilor. Mulţumită aranjamentelor lui Robert d'Artois, este desemnat regent Filip de Valois; când, câteva luni mai târziu, regina dă naştere unei fete, el devine rege, spre bucuria poporului care se temea ca Franţa nu mai are suverani şi care îl numeşte "regele găsit".&lt;p&gt;Dincolo de ocean, prinţul Eduard începe o domnie cu totul diferită de cea a hulitului său tată. De aici înainte, cele două regate evoluează diferit, deşi au suverani scoborâtori din acelaşi Ludovic cel Sfânt.&lt;/p&gt;&lt;p&gt;În Franţa uneltirile marilor nobili pentru a dobândi noi teritorii rod unitatea regatului şi facilitează izbucnirea războiului care, vreme de o sută de ani, va opune Crinul Leului.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bronto Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9735004208</dc:identifier>
+        <dc:language>ron</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Maurice Druon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Regii Blestemaţi"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2021-08-02T07:23:16+00:00"/>
+        <meta name="calibre:title_sort" content="Crinul şi Leul"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

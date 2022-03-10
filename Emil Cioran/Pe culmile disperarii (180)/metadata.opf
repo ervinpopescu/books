@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">180</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a693fd0f-5cf1-4054-b97a-ee13c4b810ed</dc:identifier>
+        <dc:title>Pe culmile disperării</dc:title>
+        <dc:creator opf:file-as="Cioran, Emil" opf:role="aut">Emil Cioran</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-01T13:46:28+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Cosimo, noiembrie 2011&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- versiune definitivă -&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cosimo</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">8bfc72b1-514d-4e6e-90d5-8bbb182b6ac2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cosimo</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emil Cioran&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-08-02T07:35:35.683993+00:00"/>
+        <meta name="calibre:title_sort" content="Pe culmile disperării"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4a678d1-17e5-41fe-b039-1963ed170bd7</dc:identifier>
+        <dc:title>Legea bărbaţilor</dc:title>
+        <dc:creator opf:file-as="Druon, Maurice" opf:role="aut">Maurice Druon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1957-02-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;hr&gt;
+După domnia scurtă, dar dezastruoasă a lui Ludovic Arţăgosul, Filip de Poitiers, cel de-al doilea fiu al lui Filip cel Frumos, preia în mod iscusit regenţa, care îi poate aduce coroana în cazul în care văduva fratelui sau ar da naştere unei fete. În acest scop, el impune faimoasa "lege" a succesiunii exclusiv masculine şi în cele din urmă îşi asigură recunoaşterea ca regent până când nou-născutul fiu al lui Ludovic al X-lea va putea domni.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dar blestemul Templierilor planează în continuare asupra vieţii la palat: Mahaut d'Artois îşi continuă uneltirile, intenţionând acum să-l otrăvească pe pruncul-rege ca să ajute ascensiunea la tron a ginerelui ei.&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bronto Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9735004186</dc:identifier>
+        <dc:language>ron</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Maurice Druon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Regii Blestemaţi"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2021-08-02T07:23:16+00:00"/>
+        <meta name="calibre:title_sort" content="Legea bărbaţilor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
