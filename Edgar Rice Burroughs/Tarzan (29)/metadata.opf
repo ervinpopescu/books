@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6ab3ac90-a354-4865-a809-8dd6eab91e3b</dc:identifier>
         <dc:title>Tarzan</dc:title>
         <dc:creator opf:file-as="Burroughs, Edgar Rice" opf:role="aut">Edgar Rice Burroughs</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.38.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Edgar Rice Burroughs&quot;: &quot;&quot;}"/>

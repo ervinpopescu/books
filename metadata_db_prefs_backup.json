@@ -4,8 +4,8 @@
   "saved_searches": {},
   "grouped_search_terms": {},
   "tag_browser_hidden_categories": [
-    "rating",
-    "publisher"
+    "publisher",
+    "rating"
   ],
   "library_view books view state": {
     "column_alignment": {
@@ -102,6 +102,14 @@
   },
   "gui_view_history": [
     [
+      51,
+      "Insula misterioasa vol. 2"
+    ],
+    [
+      29,
+      "Tarzan"
+    ],
+    [
       52,
       "Insula misterioasa vol. 1"
     ],
@@ -152,14 +160,6 @@
     [
       194,
       "Irving Stone"
-    ],
-    [
-      190,
-      "O zi din viata lui Ivan Denisovici"
-    ],
-    [
-      189,
-      "Arhipelagul Gulag [3]"
     ]
   ],
   "field_metadata": {
