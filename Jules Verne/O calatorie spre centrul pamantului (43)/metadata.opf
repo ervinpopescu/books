@@ -5,11 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">34cf07a4-32c2-4f2f-9fcc-bcfcbfd5c772</dc:identifier>
         <dc:title>O calatorie spre centrul pamantului</dc:title>
         <dc:creator opf:file-as="Verne, Jules" opf:role="aut">Jules Verne</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Jules Verne&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2021-07-12T14:14:44.711314+00:00"/>
+        <meta name="calibre:timestamp" content="2021-07-12T14:14:44+00:00"/>
         <meta name="calibre:title_sort" content="calatorie spre centrul pamantului, O"/>
     </metadata>
     <guide>
